@@ -1,35 +1,25 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+**Bienvenidos a**
+# Mi presentación
+~~~
+Soy Facundo Torres, un aspirante a programador (o un programador en desarrollo, como prefieran decirle).
+Estoy en mi segundo año de la carrera y desde que empece, cada cuatrimestre tengo mas ganas de poder trabajar
+y seguir creciendo en todo lo que tenga que ver con el campo de la programación.
+~~~
+![Una foto mia](https://drive.google.com/file/d/1jjz_8tY0QpNAuywdL6ZAzYNbTyQa9SuB/view?usp=sharing)
 
-Bienvenidxs a
-# Programación con objetos I
+---
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+## Cosas acerca de mi:
+- Me gusta jugar a la compu.
+    + A lo que más juego es [Rainbow six](https://www.ubisoft.com/es-mx/game/rainbow-six/siege/game-info/discover#intro) y [Lol](https://www.leagueoflegends.com/es-mx/how-to-play/).
+- Me gusta mucho escuchar música de distintos generos.
+    + por lo general escucho _rock_, _indie_, _metal_ y _pop_.
+    + Una de mis banda favoritas es [The Strokes](https://es.wikipedia.org/wiki/The_Strokes)
+- Me gusta mucho trabajar en equipo.
+- tambien me gusta mucho poder enseñar o ayudar a mis compañeros cuando entiendo bien el tema.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
-
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+***
+> [!NOTE]
+> En un principio, antes de inscribirme en **programacion**, está carrera era el _plan B_ porque no conocía mucho, pero opte en inscribirme
+> y no me arrepiento. Entre sabiendo poco y con dudas, pero desde que comence la carrera y me empece a adentrar mas en este mundo
+> me enamore por completo, es una de mis pasiones.
