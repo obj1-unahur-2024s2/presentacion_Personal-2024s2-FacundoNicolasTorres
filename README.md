@@ -5,7 +5,7 @@ Soy Facundo Torres, un aspirante a programador (o un programador en desarrollo, 
 Estoy en mi segundo año de la carrera y desde que empece, cada cuatrimestre tengo mas ganas de poder trabajar
 y seguir creciendo en todo lo que tenga que ver con el campo de la programación.
 ~~~
-![Una foto mia](https://drive.google.com/file/d/1jjz_8tY0QpNAuywdL6ZAzYNbTyQa9SuB/view?usp=sharing)
+![Una foto mia](IMG_20240821_195610365.jpg)
 
 ---
 
